@@ -1,5 +1,8 @@
 # Resources
 
+## Links to other repos
+- [public-api-list](https://public-api-lists.github.io/public-api-lists/) - A collective list of free APIs for use in software and web development.
+
 ## Hub
 
 - [apivaut.dev](https://apivaut.dev) - A powerful tool for API authentication and management. [👓](#1-apivautdev)
