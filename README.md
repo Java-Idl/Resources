@@ -11,6 +11,10 @@
 - [gemini](https://gemini.google.com/) v
 - [zzz code ai](https://zzzcode.ai/) v
 
+## CTF
+-[IMG] (BINWALK,EOG,EXIFTOOL,CAT)
+-[WEB] (BIRPSUITE,(SUIT VALUES TO WEBSITE)
+-[LINUX] (CAT /STC/CRONTAB)
 ## Web Dev
 - [is-a.dev](https://is-a.dev/) - free .dev subdomain; could be used until complete release of website. x
 - [vercel](https://vercel.com/) - Build and Deploy website. x
