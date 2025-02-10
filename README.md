@@ -15,7 +15,7 @@
 -[IMG] (BINWALK,EOG,EXIFTOOL,CAT)
 -[WEB] (BIRPSUITE,(SUIT VALUES TO WEBSITE)
 -[LINUX] (CAT /STC/CRONTAB)
--All in one Hacking (https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
+-All in one Hacking XML External Entity(https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
 ## Web Dev
 - [is-a.dev](https://is-a.dev/) - free .dev subdomain; could be used until complete release of website. x
 - [vercel](https://vercel.com/) - Build and Deploy website. x
