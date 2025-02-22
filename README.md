@@ -12,7 +12,7 @@
 - [zzz code ai](https://zzzcode.ai/) v
 
 ## CTF
--[IMG] (BINWALK,EOG,EXIFTOOL,CAT)
+-[IMG] (BINWALK,EOG,EXIFTOOL,CAT,steghide extract -sf {atbash.jpg})
 -[WEB] (BIRPSUITE,(SUIT VALUES TO WEBSITE)
 -[LINUX] (CAT /STC/CRONTAB)
 -All in one Hacking XML External Entity(https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
