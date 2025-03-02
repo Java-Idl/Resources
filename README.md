@@ -12,10 +12,10 @@
 - [zzz code ai](https://zzzcode.ai/) v
 
 ## CTF
--[IMG] (BINWALK,EOG,EXIFTOOL,CAT,steghide extract -sf {atbash.jpg})
--[WEB] (BIRPSUITE,(SUIT VALUES TO WEBSITE)
--[LINUX] (CAT /STC/CRONTAB)
--All in one Hacking XML External Entity(https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
+- [IMG] (BINWALK,EOG,EXIFTOOL,CAT,steghide extract -sf {atbash.jpg},Opensteg,https://www.aperisolve.com/,stegseek --seed Challenge_3.jpg)
+- [WEB] (BIRPSUITE,(SUIT VALUES TO WEBSITE)
+- [LINUX] (CAT /STC/CRONTAB)
+- All in one Hacking XML External Entity(https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
 - For Permssions (sudo -l)
 - There is man for each tool
 ## Web Dev
