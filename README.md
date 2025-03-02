@@ -18,6 +18,8 @@
 - All in one Hacking XML External Entity(https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html)
 - For Permssions (sudo -l)
 - There is man for each tool
+
+- REFRANCEEEE {https://ctf.iiitkottayam.ac.in/challenges    SOL--https://github.com/CSYClubIIITK/CTF-Writeups/blob/2f5631a683643f63ca76c2eef2208e3bf0c5fdc0}
 ## Web Dev
 - [is-a.dev](https://is-a.dev/) - free .dev subdomain; could be used until complete release of website. x
 - [vercel](https://vercel.com/) - Build and Deploy website. x
