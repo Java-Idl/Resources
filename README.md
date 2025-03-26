@@ -1,5 +1,4 @@
 # Resources
-[TOC2]
 
 ## Links to other repos
 - [public-api-list](https://public-api-lists.github.io/public-api-lists/) - A collective list of free APIs for use in software and web development. x
