@@ -12,12 +12,12 @@
 - [Gemini](https://gemini.google.com/) 👍
 - [ZZZ Code AI](https://zzzcode.ai/) 👍
 
-<a name="ctf-repos"></a>
 ## CTF
 - **IMG**: Tools for image analysis and steganography (BINWALK, EOG, EXIFTOOL, CAT, steghide, OpenSteg, [AperiSolve](https://www.aperisolve.com/), StegSeek, [StegOnline](https://www.georgeom.net/StegOnline)).
 - **WEB**: Tools for web analysis (BurpSuite).
 - **LINUX**: Basic Linux commands (CAT, CRONTAB).
 - **Hacking Resources**: [HackTricks](https://book.hacktricks.wiki/en/welcome/hacktricks-values-and-faq.html) for XML External Entity and permissions (`sudo -l`).
+<a name="ctf-repos"></a>
 - **References**:
   - [CTF Challenges](https://ctf.iiitkottayam.ac.in/challenges)
   - [CTF Writeups](https://github.com/CSYClubIIITK/CTF-Writeups/blob/2f5631a683643f63ca76c2eef2208e3bf0c5fdc0)
