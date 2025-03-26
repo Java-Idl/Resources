@@ -10,6 +10,7 @@ Welcome to my curated list of resources for developers, hackers, and enthusiasts
 - [Perplexity](https://www.perplexity.ai/) 👍
 - [Mistral](https://mistral.ai/) 👍
 - [ChatGPT](https://chatgpt.com/) 👍
+- [Deepseek](https://chat.deepseek.com/) 👍
 - [Claude](https://claude.ai/new) 👍
 - [Gemini](https://gemini.google.com/) 👍
 - [ZZZ Code AI](https://zzzcode.ai/) 👍
